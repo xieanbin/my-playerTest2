@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\detail_icon_schedule_ball.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-ldpi\\detail_icon_schedule_ball.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\audio.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-ldpi\\audio.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bg_photo_01.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-ldpi\\bg_photo_01.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\random_music_start.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-ldpi\\random_music_start.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\next_music_photo.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-ldpi\\next_music_photo.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\play_photo.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-ldpi\\play_photo.png"
+    }
+]

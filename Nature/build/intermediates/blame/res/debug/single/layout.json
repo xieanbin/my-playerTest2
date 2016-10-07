@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\layout\\music_item.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\layout\\music_item.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\layout\\detail_layout.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\layout\\detail_layout.xml"
+    }
+]

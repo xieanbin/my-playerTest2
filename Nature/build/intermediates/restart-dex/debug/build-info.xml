@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="55778489517882"
+    token="-1247650401248317260"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1873" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="209" />
+    <task
+        name="verifier"
+        duration="138" />
+
+    <artifact
+        location="E:\adproject\Nature\Nature\build\outputs\apk\Nature-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="55778489517882"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\adproject\Nature\Nature\build\outputs\apk\Nature-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

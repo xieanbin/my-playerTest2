@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_menu_item.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-hdpi\\tab_menu_item.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_menu_channel.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-hdpi\\tab_menu_channel.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_search.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-hdpi\\tab_search.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_hotcd.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-hdpi\\tab_hotcd.xml"
+    }
+]

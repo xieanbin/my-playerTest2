@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\audio.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\audio.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\forward.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pause.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\pause.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\music.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\music.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\music_app.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\music_app.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable-mdpi\\play.png"
+    }
+]

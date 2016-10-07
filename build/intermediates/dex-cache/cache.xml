@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\adproject\Nature\Nature\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78d7018f73752bc362377228a110d6832273fae7">
+        <dex dex="E:\adproject\Nature\Nature\build\intermediates\pre-dexed\debug\instant-run_7485cbe17b3a875ae6ae9a6b284fc77b255b4f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adproject\Nature\Nature\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df17c263adc5470ae40a0a6bd9ddd7cc38a96bc3">
+        <dex dex="E:\adproject\Nature\Nature\build\intermediates\pre-dexed\debug\instant-run_7485cbe17b3a875ae6ae9a6b284fc77b255b4f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adproject\Nature\Nature\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d416ac23c88592ae2530e7cdbf7426f9d151f002">
+        <dex dex="E:\adproject\Nature\Nature\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f50323f31b285c630286e778ddaeccdac97edf89.jar" />
+    </item>
+    <item
+        jar="E:\android\androidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\adproject\Nature\Nature\build\intermediates\pre-dexed\debug\support-v4-19.1.0_93177e5bd57f259505a7afeea51a9c4780fbdd43.jar" />
+    </item>
+    <item
+        jar="E:\adproject\Nature\Nature\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2eb28de199083e5a20d12eaba48d9dca6fa57ce0">
+        <dex dex="E:\adproject\Nature\Nature\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f50323f31b285c630286e778ddaeccdac97edf89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\androidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\adproject\Nature\Nature\build\intermediates\pre-dexed\debug\support-v4-19.1.0_93177e5bd57f259505a7afeea51a9c4780fbdd43.jar" />
+    </item>
+
+</items>

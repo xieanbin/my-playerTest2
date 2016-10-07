@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable\\audio.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable\\audio.png"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.png",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\drawable\\seekbar_thumb.png"
+    }
+]

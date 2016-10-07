@@ -1,0 +1,138 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/bg_photo_01">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:baselineAligned="true">
+
+    <com.example.nature.EditTexts
+        android:id="@+id/edittext"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:hint="请入歌曲名"
+        android:maxLines="1"
+        android:layout_centerVertical="true"
+        android:layout_weight="6"
+         />
+    <Button
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnsearch"
+        android:text="@string/search"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin" />
+
+</LinearLayout>
+
+
+
+    <ListView
+        android:id="@+id/lvSongs"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:cacheColorHint="#00000000" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/btnDetail"
+            android:layout_width="48dip"
+            android:layout_height="48dip"
+            android:layout_margin="0dip"
+            android:background="@drawable/music_go"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"/>
+
+        <SeekBar
+            android:id="@+id/pbDuration"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="3dip"
+            android:layout_height="10dip"
+            android:layout_marginBottom="3dip"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/btnDetail"                       
+            android:maxHeight="1dip"
+            android:minHeight="1dip"
+            android:progressDrawable="@drawable/progress_style"
+            android:thumbOffset="0dip"            
+            android:thumb="@drawable/yuan"/>
+
+        <TextView
+            android:id="@+id/tvCurrentMusic"
+            android:layout_width="190dp"
+            android:layout_height="32dip"
+            android:layout_alignBaseline="@+id/btnNext"
+            android:layout_toRightOf="@+id/btnDetail"
+            android:gravity="left|center_vertical"
+            android:paddingLeft="5dip"
+            android:paddingRight="5dip" />
+
+        <Button
+            android:id="@+id/btnStartStop"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/play1"
+            android:layout_marginRight="17dp"
+            android:layout_below="@+id/pbDuration"
+            android:layout_toLeftOf="@+id/btnNext"
+            android:layout_toStartOf="@+id/btnNext"
+            android:layout_marginEnd="17dp" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/forward1"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="22dp" />
+
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/rg_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_channel"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/tab_menu_channel"
+            android:text="@string/tab_menu_alert" />
+
+
+
+        <RadioButton
+            android:id="@+id/rb_better"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/tab_search"
+            android:text="@string/tab_menu_pay" />
+
+        <RadioButton
+            android:id="@+id/rb_setting"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/tab_hotcd"
+            android:text="@string/tab_menu_setting"/>
+
+    </RadioGroup>
+
+</LinearLayout>

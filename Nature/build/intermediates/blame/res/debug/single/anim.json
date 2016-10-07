@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\adproject\\Nature\\Nature\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "E:\\adproject\\Nature\\Nature\\src\\main\\res\\anim\\push_right_out.xml"
+    }
+]
